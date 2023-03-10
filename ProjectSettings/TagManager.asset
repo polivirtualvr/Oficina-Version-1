@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - "CameraV\xE9rtebrator\xE1cicaVisual"
+  - "CameraC\xFAbitoVisual"
+  - CameraOmoplatoVisual
+  - "CameraF\xE9murVisual"
+  - CameraHueso iliacoVisual
+  - CameraTibiaVisual
+  - "CameraEstern\xF3nvisual"
+  - CameraHueso sacro y coccixVisual
+  - CameraCostillasVisual
+  - "CameraMand\xEDbulaVisual"
+  - "CameraCr\xE1neoVisual"
+  - CameraRadioVisual
+  - "CameraH\xFAmerovisual"
+  - "CameraR\xF3tulavisual"
+  - "CameraPeron\xE9visual"
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
